@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4b8ab295aeb2c9d4a8c049b7b680a6bc
+timeCreated: 1464393743
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BlueNote: {fileID: 472816, guid: cf02249899e95444988f720bccd3f3ce, type: 2}
+  - GreenNote: {fileID: 465724, guid: 26c1de60640bf8443a0f55b079270622, type: 2}
+  - RedNote: {fileID: 466440, guid: 7634445b9c07dd5489dfd412d6ce034e, type: 2}
+  - YellowNote: {fileID: 441832, guid: a184c8c203cbe0a4999c05b52cdb8e12, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
